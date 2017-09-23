@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es2015",
+    "noImplicitThis": true,
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "noEmit": true,
+    "baseUrl": ".",
+    "paths": {
+      "*": [
+        "node_modules/ember-typings/types/*"
+      ]
+    }
+  },
+  "include": [
+    "index.d.ts",
+    "tests/*.ts"
+  ]
+}
