@@ -14,5 +14,8 @@
   "devDependencies": {
     "ember-typings": "typed-ember/ember-typings",
     "typescript": "^2.5.2"
-  }
+  },
+  "keywords": [
+    "ember-addon"
+  ]
 }
