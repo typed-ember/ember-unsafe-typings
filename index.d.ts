@@ -14,7 +14,7 @@ declare module 'ember' {
             setProperties<K extends string>(hash: Pick<any, K>): Pick<any, K>;
         }
 
-        interface Array<T> {
+        interface Enumerable<T> {
             getEach(key: string): any[];
             setEach(key: string, value: any): any;
             mapBy(key: string): any[];
