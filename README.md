@@ -1,3 +1,5 @@
+# 🛑 ARCHIVED 🛑
+
 # ember-unsafe-typings
 
 Typings to use path strings with `Ember.Object` and `Ember.Array` APIs:
